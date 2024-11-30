@@ -20,5 +20,5 @@ Feel free to connect with me! Let’s collaborate and innovate together. 😄
 
 
 ![alt text](Me.jpg)
-1. First item
+1. [Privacy](https://donyweasley.github.io/privacy)
 
