@@ -9,10 +9,9 @@ In my free time, I enjoy **watching movies** 🎥.
 ---
 
 ## 📫 How to reach me:
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 💼 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- 🐦 **Twitter:** [@your-twitter-handle](https://twitter.com/your-handle)
-- 🌐 **Portfolio:** [your-portfolio-link](https://your-portfolio.com)
+- 📧 **Email:** [Supawadee.mu@ku.th](mailto:Supawadee.mu@ku.th)
+- 📱 **Instagram:** [___dony.___](https://www.instagram.com/___dony.___/) 
+- 📞 **Phone:** [085-0270499] 
 
 ---
 
