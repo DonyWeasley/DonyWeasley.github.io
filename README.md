@@ -19,6 +19,6 @@ In my free time, I enjoy **watching movies** 🎥.
 Feel free to connect with me! Let’s collaborate and innovate together. 😄
 
 
-![alt text](Me.jpg)
+![alt text](images/profile-pictures.jpg)
 1. [Privacy](https://donyweasley.github.io/privacy)
 
