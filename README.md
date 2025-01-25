@@ -11,12 +11,11 @@ In my free time, I enjoy **watching movies** 🎥.
 - 📧 **Email:** [Supawadee.mu@ku.th](mailto:Supawadee.mu@ku.th)
 - 💼 **GitHub:** [DonyWeasley](https://github.com/DonyWeasley)
 - 📞 **Phone:** 085-0270499
----
 
+---
 ![alt text](images/profile-pictures.jpg)
 
 ---
-
 
 ## My Work:
 1. [Privacy](https://donyweasley.github.io/privacy)
