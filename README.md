@@ -12,7 +12,6 @@ In my free time, I enjoy **watching movies** 🎥.
 - 💼 **GitHub:** [DonyWeasley](https://github.com/DonyWeasley)
 - 📞 **Phone:** 085-0270499
 
----
 ![alt text](images/profile-pictures.jpg)
 
 ---
