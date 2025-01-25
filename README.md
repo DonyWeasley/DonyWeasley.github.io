@@ -8,11 +8,6 @@ In my free time, I enjoy **watching movies** 🎥.
 
 ---
 ![alt text](images/profile-pictures.jpg)
-## 📫 How to reach me:
-- 📧 **Email:** [Supawadee.mu@ku.th](mailto:Supawadee.mu@ku.th)
-- 💼 **GitHub:** [DonyWeasley](https://github.com/DonyWeasley)
-- 📱 **Instagram:** [___dony.___](https://www.instagram.com/___dony.___/) 
-- 📞 **Phone:** 085-0270499
 
 ---
 ## 📫 How to reach me:
