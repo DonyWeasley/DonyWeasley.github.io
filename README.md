@@ -22,5 +22,6 @@ In my free time, I enjoy **watching movies** 🎥.
 3. [Data Quality](https://donyweasley.github.io/accuracy/)
 4. [NCSA Boardgame](https://donyweasley.github.io/boardgame/).
 5. [Security Control](https://donyweasley.github.io/security-control/)
+6. [2025 PAO Elections](https://donyweasley.github.io/pao-elections/)
 
 
